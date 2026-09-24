@@ -55,9 +55,9 @@ This repository tracks notable **SaaS platforms** and **open-source repositories
 
 ## 💻 Open-Source GitHub Repositories
 
-Below are high-quality open-source projects providing self-hosted voice interviewers, coding test engines, AI mock interviewers, and transcription backbones. Sorted by **GitHub Stars (Descending)**.
+Below are high-quality open-source projects providing self-hosted voice interviewers, coding test engines, AI mock interviewers, and transcription backbones. Sorted by **GitHub_Stars (Descending)**.
 
-| Repository 📦 | GitHub Stars ⭐ | Primary Tech Stack 🛠️ | Description & Capabilities 📝 |
+| Repository 📦 | GitHub_Stars ⭐ | Primary Tech Stack 🛠️ | Description & Capabilities 📝 |
 | :--- | :--- | :--- | :--- |
 | **[openai/whisper](https://github.com/openai/whisper)** 🎧 | [![Whisper Stars](https://img.shields.io/github/stars/openai/whisper?style=social&color=white)](https://github.com/openai/whisper/stargazers) | Python, PyTorch | Open-source state-of-the-art speech recognition & diarization model used as the speech-to-text core for voice AI interviewers. |
 | **[Tameyer41/liftoff](https://github.com/Tameyer41/liftoff)** 🚀 | [![Liftoff Stars](https://img.shields.io/github/stars/Tameyer41/liftoff?style=social&color=white)](https://github.com/Tameyer41/liftoff/stargazers) | TypeScript, Next.js, OpenAI | Open-source mock interview simulator with voice interactions, dynamic follow-up questions, and AI feedback. |
