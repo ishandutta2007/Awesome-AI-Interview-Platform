@@ -1,6 +1,6 @@
 # Awesome-AI-Interview-Platform
 
-# Top AI Interview Platform Ecosystem
+## Top AI Interview Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on AI-Powered Hiring Interviews, Voice Screening, Structured Assessment, Proctoring & Candidate Evaluation*  
