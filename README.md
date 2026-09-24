@@ -4,9 +4,11 @@
 
 ## 📌 Top AI Interview Platform Ecosystem & Hiring Tools
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on AI-Powered Hiring Interviews, Voice Screening, Technical Coding Assessments, Proctoring & Candidate Evaluation*  
@@ -26,8 +28,11 @@ This repository tracks notable **SaaS platforms** and **open-source repositories
 
 - [🏢 SaaS / Hosted Platforms](#-saas--hosted-platforms)
 - [💻 Open-Source GitHub Repositories](#-open-source-github-repositories)
+- [🛠️ Architecture & DIY Frameworks](#%EF%B8%8F-architecture--diy-frameworks)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -92,10 +97,26 @@ Contributions are highly encouraged! To add a new platform or repository:
 
 ---
 
+## 💖 Support & Sponsorship
+
+Thank you for exploring and using the **Awesome AI Interview Platform Ecosystem** resource! If you find this curated list valuable for your hiring operations, research, or development projects, please consider supporting the project:
+
+- ⭐ **Star** this repository on GitHub to help others discover it.
+- 🔀 **Fork** and share it with your network, team, or fellow developers.
+- ☕ **Buy Me a Coffee / Sponsor**: Support ongoing maintenance and curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## ⚠️ Disclaimer
 
 - This repository is a **community-curated list** for informational and educational purposes.
 - AI automated interviewing technologies must adhere to local employment regulations (e.g., EEOC guidance, EU AI Act, NYC Local Law 144). Automated evaluations should assist human recruiters rather than serve as sole hiring criteria without human oversight.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Interview-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Interview-Platform&type=date&legend=top-left)
 
 ---
 
