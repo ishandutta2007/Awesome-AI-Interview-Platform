@@ -50,6 +50,7 @@ This repository tracks notable **SaaS platforms** and **open-source repositories
 | **[Apriora (Alex AI)](https://www.alex.com/)** 🤖 | **$75M Valuation** / ~$1M ARR | Custom mid-market/enterprise packages (Est. **$10,000 / year** starting) | **No Free Trial** (Book live platform demo) | 24/7 real-time voice, video & SMS AI interviewer for automated candidate screening and ATS sync. |
 | **[Metaview AI](https://www.metaview.ai/)** 🎙️ | **$50M Total Raised** (GV funded) | Pro Plan starts at **$100 / user / month** | **Free Plan** available with **25 AI interview calls / month** limit | Automated interview note-taking, AI scorecard generation, & recruiting team analytics. |
 | **[Final Round AI](https://www.finalroundai.com/)** 🎯 | **$6.88M Funding** (Seed 2025) | Annual Plan at **$25 / month** ($300/yr); Monthly at **$90 / month** | **10-minute Free Trial** session for CoPilot + Unlimited basic mock reports | Real-time Interview CoPilot™ candidate assistant, resume-grounded questions, and post-interview reports. |
+| **[Flowmingo](https://flowmingo.ai)** 🦩 | Backed by **Y Combinator**; used by 4,000+ recruiting teams (Princep Pte. Ltd., Singapore) | Free plan **$0**; paid plans from **$49 / month** (Starter, billed monthly) | **Free Plan** available, no credit card needed | Free AI Interviewer and screening platform for recruiters: the AI drafts questions and scoring criteria from the job description, candidates answer in their own time on a phone or a laptop, and each interview returns the recording, transcript and scores with reasons. |
 
 ---
 
