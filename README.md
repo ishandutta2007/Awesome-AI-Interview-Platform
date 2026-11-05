@@ -130,3 +130,12 @@ Thank you for exploring and using the **Awesome AI Interview Platform Ecosystem*
 <p align="center">
   <b>Made with ❤️ for recruiters, talent ops, software engineers, and AI developers.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-AI-Interview-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-AI-Interview-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-AI-Interview-Platform_growth.svg">
+  </picture>
+</a>
