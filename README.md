@@ -45,12 +45,20 @@ This repository tracks notable **SaaS platforms** and **open-source repositories
 
 | Company & Platform 🏢 | Company Size (Valuation / Revenue) 📈 | Specific Pricing 💵 | Free Tier / Trial Limit 🆓 | Key Features & Focus 🌟 |
 | :--- | :--- | :--- | :--- | :--- |
+| **[HackerRank](https://www.hackerrank.com/)** 👨‍💻 | **$500M+ Valuation** / $100M+ ARR | Starter Plan at **$79 – $199 / month** (billed annually); Enterprise custom quote | **Free Trial / Dev Free Tier** (Free practice & certifications for developers) | Benchmark technical assessments, automated scoring, AI proctoring, and live pair-programming interviews. |
 | **[HireVue](https://www.hirevue.com/)** 💼 | **$400M Valuation** / ~$100M ARR | Entry plans start at **$35,000 / year** (Enterprise quote) | **No Free Trial** (Sales demo process only) | Enterprise structured AI video interviews, gamified skills assessments, & automated candidate evaluation. |
-| **[CodeSignal](https://www.codesignal.com/)** ⚡ | **$488M Valuation** / ~$50M ARR | Individual Learn plan at **$24.99 / month**; Enterprise median contract ~$24,394 / year | **Free Forever Plan** available for CodeSignal Learn (Basic coding practice) | Advanced developer skills assessments, real-time IDE interviews, and Cosmos AI interviewer co-pilot. |
-| **[Apriora (Alex AI)](https://www.alex.com/)** 🤖 | **$75M Valuation** / ~$1M ARR | Custom mid-market/enterprise packages (Est. **$10,000 / year** starting) | **No Free Trial** (Book live platform demo) | 24/7 real-time voice, video & SMS AI interviewer for automated candidate screening and ATS sync. |
+| **[interviewing.io](https://interviewing.io/)** 🎙️ | **$50M - $100M Valuation** | Practice sessions from **$179 / mock interview**; Custom enterprise employer fees | **Free AI Interviewer & Peer Tier** (1 free mock session + free community practice) | Anonymous technical mock interviews with FAANG engineers, AI technical interviewer practice, and hiring pipeline. |
+| **[Karat](https://karat.com/)** 🤝 | **$1.1B Valuation (Unicorn)** | Custom enterprise contracts (~**$150 – $220+ per interview** screen) | **No Free Trial** (Enterprise demo & consultation) | Interviewing Cloud: Human expert + AI-augmented technical interviewing infrastructure at enterprise scale. |
 | **[Metaview AI](https://www.metaview.ai/)** 🎙️ | **$50M Total Raised** (GV funded) | Pro Plan starts at **$100 / user / month** | **Free Plan** available with **25 AI interview calls / month** limit | Automated interview note-taking, AI scorecard generation, & recruiting team analytics. |
+| **[Sapia.ai](https://sapia.ai/)** 💬 | **$50M - $100M Valuation** | Enterprise custom plans (Est. **$25,000 – $50,000+ / year** based on volume) | **No Free Trial** (Enterprise product tour & pilot) | Ethical text-based Smart Chat Interviewer, blind screening chat bot, and automated personalized candidate feedback. |
+| **[Willo](https://www.willo.video/)** 📹 | **Private Scaleup** | Plans start at **$59 / month** per active job; Scale plans from **$299 / month** | **14-Day Free Trial** available (No credit card required) | Asynchronous video interviewing, automated video screening workflows, and AI assessment blueprints. |
+| **[Adaface](https://www.adaface.com/)** 🤖 | **Bootstrapped / Private** | Starter packs from **$180** (credit bundle); Custom enterprise plans | **Free Trial** with 5 test credits and 2 sample assessments | Conversational AI chatbot screening, coding assessments, and non-googleable aptitude tests. |
+| **[Apriora (Alex AI)](https://www.alex.com/)** 🤖 | **$75M Valuation** / ~$1M ARR | Custom mid-market/enterprise packages (Est. **$10,000 / year** starting) | **No Free Trial** (Book live platform demo) | 24/7 real-time voice, video & SMS AI interviewer for automated candidate screening and ATS sync. |
+| **[Coderbyte](https://coderbyte.com/)** 💻 | **Private SMB** / $5M+ ARR | Starts at **$199 / month** or pay-per-candidate packs (~$350 for 30 credits); Enterprise from $14,995/yr | **14-Day Free Trial** available for recruiters | Fast technical screening, automated code scoring, take-home projects, and AI-assisted interview challenges. |
+| **[CodeSignal](https://www.codesignal.com/)** ⚡ | **$488M Valuation** / ~$50M ARR | Individual Learn plan at **$24.99 / month**; Enterprise median contract ~$24,394 / year | **Free Forever Plan** available for CodeSignal Learn (Basic coding practice) | Advanced developer skills assessments, real-time IDE interviews, and Cosmos AI interviewer co-pilot. |
 | **[Final Round AI](https://www.finalroundai.com/)** 🎯 | **$6.88M Funding** (Seed 2025) | Annual Plan at **$25 / month** ($300/yr); Monthly at **$90 / month** | **10-minute Free Trial** session for CoPilot + Unlimited basic mock reports | Real-time Interview CoPilot™ candidate assistant, resume-grounded questions, and post-interview reports. |
 | **[Flowmingo](https://flowmingo.ai)** 🦩 | Backed by **Y Combinator**; used by 4,000+ recruiting teams (Princep Pte. Ltd., Singapore) | Free plan **$0**; paid plans from **$49 / month** (Starter, billed monthly) | **Free Plan** available, no credit card needed | Free AI Interviewer and screening platform for recruiters: the AI drafts questions and scoring criteria from the job description, candidates answer in their own time on a phone or a laptop, and each interview returns the recording, transcript and scores with reasons. |
+
 
 ---
 
@@ -124,3 +132,12 @@ Thank you for exploring and using the **Awesome AI Interview Platform Ecosystem*
 <p align="center">
   <b>Made with ❤️ for recruiters, talent ops, software engineers, and AI developers.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-AI-Interview-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-AI-Interview-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-AI-Interview-Platform_growth.svg">
+  </picture>
+</a>
